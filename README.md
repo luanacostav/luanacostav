@@ -36,5 +36,7 @@
     <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   </div>
-</div>
+</div> <br><br><br>
+
+![Snake animation](https://github.com/luanacostav/luanacostav/blob/output/github-contribution-grid-snake.svg)
  
