@@ -8,7 +8,7 @@
 - 📂 Studying Analysis and Systems Development
 - 🤍 Pronouns: she/her
 - 🖥 Interested in: becoming a Full-Stack Developer
-
+<br/>
 <h3 align="left">📍 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/luana-costa-vasconcelos-613707287" target="blank">
