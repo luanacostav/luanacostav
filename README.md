@@ -1,39 +1,49 @@
-<div>
-  <img align="right" alt="Luana-gif" height="100px" src="https://cdn.discordapp.com/attachments/1087133504296472707/1139213972751528067/gifluana.gif">
-  <h1>Oii! Eu sou a Luana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1> <br><br>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%92%AC;I'm+Dev+Luana!" alt="Typing SVG" />
+</h1>
 
+<img align="right" src="https://cdn.discordapp.com/attachments/1087133504296472707/1232752734709747843/animated-gif-maker.gif?ex=662a99f3&is=66294873&hm=96ebc1eab561140eeb10cadf0ff90bbe6181a06395d5488801793c2bb20644d3&" height="250px"/>
+<br/>
+
+- 📂 Studying Analysis and Systems Development
+- 🤍 Pronouns: she/her
+- 🖥 Interested in: becoming a Full-Stack Developer
+
+<h3 align="left">📍 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/luana-costa-vasconcelos-613707287" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luana-costa-vasconcelos-613707287" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/luanavasc" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luanavasc" height="30" width="40" />
+  </a>
+<p>
+
+- luanacvasconcelos11@gmail.com
+
+<br/>
+<br/>
+<div align="left">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luanacostav&theme=midnight-purple&show_icons=true&bg_color=00000000&rank_icon=github"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanacostav&layout=compact&theme=midnight-purple&bg_color=00000000"/>
+</div>
+<br/>
+<h2 align="center">🔗 Skills 🔗</h2>
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luanacostav&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanacostav&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,ts,c"/>
+  </a>
 </div>
-
- ##
- 
-<div align="center"> 
-<br>
-<a href="https://www.linkedin.com/in/luana-costa-vasconcelos-613707287/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- <div align="right">
-  
-</div>
-
- ##
-
-
+<h2 align="center">⚙ Tools ⚙</h2>
 <div align="center">
-  <div style="display: inline_block"><br>
-     <img align="left" height="350" alt="coding" src="https://cdn.discordapp.com/attachments/1087133504296472707/1139250851878277190/code.gif">
-    <h2 align="center">Skills</h2>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><br>
-    <h2 align="center">Studying</h2>
-    <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  </div>
-</div> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,notion,replit,stackoverflow"/>
+  </a>
+</div>
+<h2 align="center">⛓ Learning ⛓</h2>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,mysql,anaconda"/>
+  </a>
+</div>
 
- 
