@@ -21,7 +21,7 @@
 <h2 align="center">⚙ Tools ⚙</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,anaconda,notion,replit,stackoverflow"/>
+    <img src="https://skillicons.dev/icons?i=git,vscode,anaconda,replit,stackoverflow"/>
   </a>
 </div>
 <h2 align="center">⛓ Learning ⛓</h2>
