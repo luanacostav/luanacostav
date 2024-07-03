@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%92%AC;I'm+Dev+Luana!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=F7F7F7F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%91%BE;I'm+Dev+Luana!" alt="Typing SVG" /></a>
 </h1>
 
 <img align="right" src="https://cdn.discordapp.com/attachments/1087133504296472707/1232752734709747843/animated-gif-maker.gif?ex=662a99f3&is=66294873&hm=96ebc1eab561140eeb10cadf0ff90bbe6181a06395d5488801793c2bb20644d3&" height="250px"/>
