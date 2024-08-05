@@ -15,19 +15,19 @@
 <h2 align="center">🔗 Skills 🔗</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,ts,c"/>
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,ts,c,mysql"/>
   </a>
 </div>
 <h2 align="center">⚙ Tools ⚙</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,anaconda,replit,stackoverflow"/>
+    <img src="https://skillicons.dev/icons?i=git,vscode,anaconda,replit,stackoverflow,windows"/>
   </a>
 </div>
 <h2 align="center">⛓ Learning ⛓</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,mysql"/>
+    <img src="https://skillicons.dev/icons?i=django,nodejs"/>
   </a>
 </div>
 
