@@ -15,12 +15,14 @@
             <br/>
             <p>Contact:</p>
             ├── <a href="https://www.linkedin.com/in/luana-costa-vasconcelos-613707287/">Linkedin</a>
+            <br/>
+            <br/>
         </td>
         <td style="width: 50%; vertical-align: top;">
             <p>
-                <a href="https://git.io/typing-svg">
-                    <img src="https://readme-typing-svg.herokuapp.com?weight=500&size=18&pause=1000&color=F7F7F7&width=435&lines=Info+loading+.+.+." alt="Typing SVG" />
-                </a>
+               <a href="https://git.io/typing-svg">
+                   <img src="https://readme-typing-svg.herokuapp.com?font=arial&pause=1000&color=F7F7F7&width=435&lines=Info+loading+.+.+." alt="Typing SVG" />
+               </a>
             </p>
             
             /About_me
