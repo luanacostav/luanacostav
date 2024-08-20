@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <td>
+        <td style="width: 50%;">
             <h2 align="center">
                 Hi there! <br/>
                 I'm Dev Luana_
@@ -12,7 +12,6 @@
               <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luanacostav&theme=midnight-purple&show_icons=true&bg_color=00000000&rank_icon=github"/> <br/><br/>
               <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanacostav&layout=compact&theme=midnight-purple&bg_color=00000000"/>
             </div>
-            <br/>
             <br/>
             <p>Contact:</p>
             ├── <a href="https://www.linkedin.com/in/luana-costa-vasconcelos-613707287/">Linkedin</a>
