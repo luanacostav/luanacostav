@@ -1,17 +1,15 @@
 <table>
     <tr>
         <td>
-            <h1 align="center">
-                <a href="https://git.io/typing-svg">
-                    <img src="https://readme-typing-svg.herokuapp.com?size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+there;I'm+Dev+Luana!" alt="Typing SVG" />
-                </a>
-            </h1>
-            <img align="right" src="https://cdn.discordapp.com/attachments/1087133504296472707/1232752734709747843/animated-gif-maker.gif?ex=662a99f3&is=66294873&hm=96ebc1eab561140eeb10cadf0ff90bbe6181a06395d5488801793c2bb20644d3&" height="250px"/>
-            <br/>
-            <br/>
+            <h2 align="center">
+                Hi there! <br/>
+                I'm Dev Luana_
+                <br/>
+                <br/>
+            </h2>
             <br/>
             <div align="center">
-              <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luanacostav&theme=midnight-purple&show_icons=true&bg_color=00000000&rank_icon=github"/>
+              <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luanacostav&theme=midnight-purple&show_icons=true&bg_color=00000000&rank_icon=github"/> <br/><br/>
               <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanacostav&layout=compact&theme=midnight-purple&bg_color=00000000"/>
             </div>
             <br/>
@@ -55,6 +53,6 @@
                 ├── anaconda
                 ├── replit
                 └── stackoverflow
-        </td>
-    </tr>
+</td>
+</tr>
 </table>
