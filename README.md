@@ -47,7 +47,8 @@
             │   ├── css.css
             │   ├── typescript.ts
             │   ├── c.c
-            │   └── mysql.sql
+            │   ├── mysql.sql
+            │   └── postgre.sql
             │
             └── tools
                 ├── git
