@@ -41,14 +41,18 @@
             │       └── pandas.py
             │       └── django.py
             │       └── numpy.py
+            │
             │   ├── javascript.js
             │       └── nodejs.js
+            │
             │   ├── html.html
             │   ├── css.css
             │   ├── typescript.ts
             │   ├── c.c
-            │   ├── mysql.sql
-            │   └── postgre.sql
+            │
+            │   ├── sql.sql
+            │       └── mysql.sql
+            │       └── postgre.sql
             │
             └── tools
                 ├── git
