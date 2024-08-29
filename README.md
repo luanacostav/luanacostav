@@ -34,15 +34,15 @@
             │
             ├── os
             │   ├── windows.txt
-            │          └── Windows 11
+            │       └── Windows 11
             │
             ├── languages
             │   ├── python.py
-            │           └── pandas.py
-            │           └── django.py
-            │           └── numpy.py
+            │       └── pandas.py
+            │       └── django.py
+            │       └── numpy.py
             │   ├── javascript.js
-            │           └── nodejs.js
+            │       └── nodejs.js
             │   ├── html.html
             │   ├── css.css
             │   ├── typescript.ts
