@@ -1,69 +1,79 @@
-<table>
-    <tr>
-        <td style="width: 50%;">
-            <h2 align="center">
-                Hi there! <br/>
-                I'm Dev Luana_
-                <br/>
-                <br/>
-            </h2>
-            <br/>
-            <div align="center">
-              <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luanacostav&theme=midnight-purple&show_icons=true&bg_color=00000000&rank_icon=github"/> <br/><br/>
-              <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanacostav&layout=compact&theme=midnight-purple&bg_color=00000000"/>
-            </div>
-            <br/>
-            <p>Contact:</p>
-            ├── <a href="https://www.linkedin.com/in/luana-costa-vasconcelos-613707287/">Linkedin</a>
-            <br/>
-            <br/>
-        </td>
-        <td style="width: 50%; vertical-align: top;">
-            <p>
-               <a href="https://git.io/typing-svg">
-                   <img src="https://readme-typing-svg.herokuapp.com?font=arial&pause=1000&color=F7F7F7&width=435&lines=Info+loading+.+.+." alt="Typing SVG" />
-               </a>
-            </p>
-            
-            /About_me
-            │
-            ├── bio.txt
-            │   ├── ADS
-            │   ├── brazilian
-            │   └── (pt-br + english)
-            │
-            ├── os
-            │   ├── windows.txt
-            │       └── Windows 11
-            │   ├── wsl.txt
-            │       └── Ubuntu
-            │
-            ├── languages
-            │   ├── python.py
-            │       └── pandas.py
-            │       └── django.py
-            │       └── numpy.py
-            │
-            │   ├── javascript.js
-            │       └── nodejs.js
-            │
-            │   ├── html.html
-            │   ├── css.css
-            │   ├── typescript.ts
-            │   ├── c.c
-            │
-            │   ├── sql.sql
-            │       └── mysql.sql
-            │       └── postgre.sql
-            │
-            │   ├── nosql.nosql
-            │       └── mongodb.nosql
-            │
-            └── tools
-                ├── git
-                ├── vscode
-                ├── anaconda
-                └── stackoverflow
-</td>
-</tr>
-</table>
+<h1 align="left">Hi there! I'm Dev Luana 👩‍💻</h1>
+<br/>
+
+###
+
+<h3 align="center">↻ Skills ↻</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="41" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="41" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="41" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="41" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="41" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="41" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="41" alt="postgresql logo"  />
+</div>
+
+###
+
+<br/>
+<h3 align="center">↻ Tools ↻</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+<br/>
+
+##
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luanacostav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&show_icons=true&bg_color=00000000&rank_icon=github&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luanacostav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&show_icons=true&bg_color=00000000&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+<br/>
+<h3 align="left">↻ Contact ↻</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/luana-costa-vasconcelos-613707287/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
