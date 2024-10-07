@@ -63,7 +63,6 @@
                 ├── git
                 ├── vscode
                 ├── anaconda
-                ├── replit
                 └── stackoverflow
 </td>
 </tr>
