@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="center">↻ Skills ↻</h2>
+<h3 align="center">↻ Skills ↻</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 ###
 
 <br/>
-<h2 align="center">↻ Tools ↻</h2>
+<h3 align="center">↻ Tools ↻</h3>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 <br/>
-<h2 align="left">↻ Contact ↻</h2>
+<h3 align="left">↻ Contact ↻</h3>
 
 ###
 
