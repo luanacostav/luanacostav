@@ -1,4 +1,4 @@
-<h1 align="left">... Hi there! I'm Dev Luana 👩‍💻</h1>
+<h1 align="center">... Hi there! I'm Dev Luana 👩‍💻</h1>
 <br/>
 
 ###
