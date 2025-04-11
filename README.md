@@ -103,10 +103,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d2d82a82-7127-4b5f-b85b-dd14e96a3aa8" width="300px" height="200px" alt="Image">
-</div>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanacostav/luanacostav/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanacostav/luanacostav/output/pacman-contribution-graph.svg">
