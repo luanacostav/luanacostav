@@ -94,11 +94,14 @@
 <br>
 <br>
 <div align="center">
-  <a href="www.linkedin.com/in/luana-costa-vasconcelos-613707287" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/luana-costa-vasconcelos-613707287" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=5a189a&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@luaztech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=7b2cbf&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://dev.to/luanadev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=DEV.TO&logo=dev.to&label=&color=9d4edd&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo"  />
   </a>
 </div>
 
