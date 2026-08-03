@@ -1,3 +1,7 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://imgs.search.brave.com/WmIK3a4XETOLuZMQmFnNBjasBGS1CGuYtIvlF_tYEOE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/QjBRNFVUSDRsWHdB/QUFBbS9tZHJnLW15/LWR5c3RvcGlhbi1y/b2JvdC1naXJsZnJp/ZW5kLndlYnA"  />
+</div>
+
 ###
 
 <h1 align="center">Hey 👋</h1>
@@ -15,12 +19,6 @@
 </p>
 
 ###
-
-<br>
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=luanacostav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&show_icons=true&bg_color=00000000&rank_icon=github&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luanacostav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&show_icons=true&bg_color=00000000&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 <br>
 <h3 align="left">☄️ Skills</h3>
@@ -54,8 +52,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
@@ -83,8 +81,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
 </div>
